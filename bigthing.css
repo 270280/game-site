@@ -1,0 +1,26 @@
+html {
+    background: radial-gradient(black, darkblue, blue, skyblue, cyan);
+    margin: 2px; 
+}
+
+h4 {
+    color: red;
+    text-align: center;
+
+}
+
+li {
+    color: rgb(255, 145, 0);
+    text-align: left;
+
+}
+
+a {
+    color: rgb(255, 145, 0);
+    text-align: left;
+
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
